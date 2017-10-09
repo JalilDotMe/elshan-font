@@ -1,5 +1,5 @@
-# Elshan font
-A Azerbaijani (Arabic Alphabet) Font - « ائلشن» آزربایجان تورکجه‌سی فونتو
+# Elshan font ائلشن فوْنتوٌ
+A Azerbaijani (Arabic Alphabet) Font -  آزربایجان توٚرکجه‌سی فوْنتوٌ
 
 ایٛـ یٛـ یٛ
 اوْ وْ
@@ -8,5 +8,6 @@ A Azerbaijani (Arabic Alphabet) Font - « ائلشن» آزربایجان تور
 اؤ ؤ
 اوٚ وٚ
 ایـ یـ ی
+
 
 Based on Samim Font (https://github.com/rastikerdar/samim-font)
