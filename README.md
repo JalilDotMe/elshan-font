@@ -1,5 +1,5 @@
 # Elshan font ائلشن فوْنتوٌ
-A Azerbaijani (Arabic Alphabet) Font -  آزربایجان توٚرکجه‌سی فوْنتوٌ
+An Azerbaijani (Arabic Alphabet) Font -  آزربایجان توٚرکجه‌سی فوْنتوٌ
 
 ایٛـ یٛـ یٛ
 اوْ وْ
